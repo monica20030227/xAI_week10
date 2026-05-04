@@ -1,5 +1,7 @@
 # 🚦 模型可靠性分析 Dashboard（xAI 第十週）
 
+Dashboard連結：https://xaiweek10-mafyqdyuycsn2xtmappc2mq.streamlit.app/
+
 本專案實作一個基於 xAI 第十週概念的**模型可靠性診斷系統（Reliability Analysis）**，重點不在於提升模型準確率，而在於分析：
 
 - 模型什麼時候會錯？
